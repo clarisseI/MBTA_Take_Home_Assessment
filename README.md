@@ -20,10 +20,11 @@ To run the program , you will only need Node.js and npm or Yarn installed on you
 
     To run the code:
 
-1. install node modules
-   npm install
-2. create a file called .env in your main directory
+1. create a file called .env in your main directory
    add this line API_KEY="MBTA API KEY "
+
+2. install node modules
+   npm install
 3. run the app
    node main.js
 
