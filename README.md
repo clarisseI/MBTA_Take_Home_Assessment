@@ -21,7 +21,7 @@ To run the program , you will only need Node.js and npm or Yarn installed on you
     To run the code:
 
 1. create a file called .env in your main directory
-   add this line API_KEY="MBTA API KEY "
+   add this line API_KEY="Enter your MBTA CLIENT KEY" which can be found at https://api-v3.mbta.com/register
 
 2. install node modules
    npm install
