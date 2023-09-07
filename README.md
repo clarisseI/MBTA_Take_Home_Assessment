@@ -1,4 +1,4 @@
-# MBTA-TAKE-HOME-ASSESSMENT
+# MBTA
 
 In this project, we will be interacting with the Boston transportation system APIs. The goal is to print the following information to the console: 1. Long names for subway routes 2. The subway with the most and fewest stops, as well as the number of stops. 3. A list of the stops that connect two or more subway routes with their route names. 4. List a rail route you could travel to get from one stop to the other
 
